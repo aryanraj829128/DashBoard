@@ -1,1 +1,1 @@
-# DashBoard
+I built a complete sales analysis dashboard using the Superstore dataset. First, I cleaned and preprocessed the data in Python, including date formatting and missing value handling. I performed statistical analysis to understand trends in sales and profit. I loaded the data into MySQL, wrote optimized queries to find top regions and categories, and finally, I built an interactive Tableau dashboard with KPI cards and filters to present actionable insights
